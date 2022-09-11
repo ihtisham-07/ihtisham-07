@@ -1,15 +1,15 @@
-<h1 align="center">Hi ðŸ‘‹, I'm IHTISHAM</h1>
-<h3 align="center">A Certified ethical hacker from Pakistan</h3>
+<h1 align="center">Hi  I'm IHTISHAM</h1>
+<h3 align="center">A CEH, CCNA Student from Pakistan</h3>
 <img align="Right"alt="coding" width="400"src="/storage/emulated/0/My pic/Picsart_22-05-27_08-28-19-546.jpg">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ihtisham-786" alt="ihtisham-786" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@ihtisham_llhaq" target="blank"><img src="https://img.shields.io/twitter/follow/@ihtisham_llhaq?logo=twitter&style=for-the-badge" alt="@ihtisham_llhaq" /></a> </p>
 
-- ðŸŒ± Iâ€™m currently learning **Website penetration**
+-  Im currently learning **Website penetration**
 
-- ðŸ“« How to reach me **ihtishamulhaq1112@gmail.com**
+- How to contact me **ihtishamulhaq1112@gmail.com**
 
-- âš¡ Fun fact **I think I'm funny ðŸ˜‚ðŸ˜‚**
+-  Fun fact ** I think I'm funny 😁😁😁
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
