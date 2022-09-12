@@ -1,5 +1,5 @@
 
-<image align="center" scr=" ">
+<image align="center" scr="https://github.com/ihtisham-07/ihtisham-07/blob/main/ihtisham.png">
 <h1 align="center">Hi  I'm IHTISHAM</h1>
 <h3 align="center">A CEH, CCNA Student from Pakistan</h3>
 
