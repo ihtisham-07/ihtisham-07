@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi  I'm IHTISHAM</h1>
 <h3 align="center">A CEH, CCNA Student from Pakistan</h3>
-
+<imag align="right" alt="coding" width="400"scr"https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ihtisham-786" alt="ihtisham-786" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@ihtisham_llhaq" target="blank"><img src="https://img.shields.io/twitter/follow/@ihtisham_llhaq?logo=twitter&style=for-the-badge" alt="@ihtisham_llhaq" /></a> </p>
