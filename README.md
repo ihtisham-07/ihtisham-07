@@ -16,9 +16,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@ihtisham_llhaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ihtisham_llhaq" height="30" width="40" /></a>
-<a href="https://www.facebook.com/sadiqkhan.khq.543" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ihtisham u llhaq" height="30" width="40" /></a>
-<a href="https://wa.me/923025318935" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ihti_shamulhaq786" height="30" width="40" /></a>
+
+[![](https://img.shields.io/badge/Github-red?logo=Github&logoColor=red&labelColor=black)](ht) <br>
+[![](https://img.shields.io/badge/Facebook-red?logo=Facebook&logoColor=red&labelColor=black)](http9) <br>
+[![](https://img.shields.io/badge/Messenger-red?logo=Messenger&logoColor=red&labelColor=black)](htt9) <br>
+[![](https://img.shields.io/badge/Whatsapp-?logo=Whatsapp&logoColor=red&labelColor=black)](.       ) <br>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
