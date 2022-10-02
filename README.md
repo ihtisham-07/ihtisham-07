@@ -4,7 +4,7 @@
 ![Screenshot_20220519-161550_zoom](https://github.com/ihtisham-07/ihtisham-07/blob/main/ihtisham.jpg)
 
 <h1 align="center">Hi  I'm IHTISHAM</h1>
-<h3 align="center">A CEH, CCNA Student from Pakistan</h3>
+<h3 align="center"> CEH, CCNA Student from Pakistan</h3>
 
 
 
