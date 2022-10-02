@@ -6,7 +6,7 @@
 
 <h1 align="center">MY DREAM </h1>
 <video width="320" height="240" autoplay>
-  <source src="movie.mp4"</video>
+  <source src="https://github.com/ihtisham-07/ihtisham-07/blob/main/my%20dream.mp4 "</video>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ihtisham-07" alt="ihtisham-07" /></a> </p>
 
