@@ -4,6 +4,8 @@
 <h1 align="center">Hi  I'm IHTISHAM</h1>
 <h3 align="center">A CEH, CCNA Student from Pakistan</h3>
 
+<h1 align="center">MY DREAM </h1>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ihtisham-07" alt="ihtisham-07" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@ihtisham_llhaq" target="blank"><img src="https://img.shields.io/twitter/follow/@ihtisham_llhaq?logo=twitter&style=for-the-badge" alt="@ihtisham_llhaq" /></a> </p>
@@ -32,5 +34,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ihtisham-786&show_icons=true&locale=en" alt="ihtisham-786" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ihtisham-07&" alt="ihtisham-07" /></p>
-### MY DREAM 😇
+
 
