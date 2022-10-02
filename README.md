@@ -1,4 +1,6 @@
 ### Welcome to My profile
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF3030&background=FFFFFF&center=true&lines=Wellcome+to+my+profile+;I'm+IHTISHAM%F0%9F%A5%B0;From+Pakistan+;And+I'm+a;CEH+%2C+CCNA+student+)](https://git.io/typing-svg)
 ![Screenshot_20220519-161550_zoom](https://github.com/ihtisham-07/ihtisham-07/blob/main/ihtisham.jpg)
 
 <h1 align="center">Hi  I'm IHTISHAM</h1>
