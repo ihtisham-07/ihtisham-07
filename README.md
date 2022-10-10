@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF3030&background=FFFFFF&center=true&lines=Wellcome+to+my+profile+;I'm+IHTISHAM%F0%9F%A5%B0;From+Pakistan+;And+I'm+a;CEH+%2C+CCNA+student+)](https://git.io/typing-svg)
 ![Screenshot_20220519-161550_zoom](https://github.com/ihtisham-07/ihtisham-07/blob/main/ihtisham.jpg)
-
+![Screenshot_2022-08-29-17-44-00-945_com termux](https://github.com/YounisJohn/Force2/blob/main/193396293-bcd278aa-6d0c-4681-8a06-9c4fa83880f2.gif)
 <h1 align="center">Hi  I'm IHTISHAM</h1>
 <h3 align="center"> CEH, CCNA Student from Pakistan</h3>
 
